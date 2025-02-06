@@ -24,8 +24,7 @@ self.os = "Arch Linux BTW 🐧"
 ## 📊 GitHub Stats
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=GizmetDev&show_icons=true&theme=merko&hide_border=true" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=GizmetDev&theme=merko&hide_border=true" />
-</p>
+  </p>
 
 ## 🚀 Featured Projects
 
