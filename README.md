@@ -1,4 +1,4 @@
-# GizmetDev 👋
+⚔️ GizmetDev ☠️
 
 <div align="center">
 
