@@ -15,6 +15,5 @@ self.code = ["Python", "TypeScript", "JavaScript"]
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GizmetDev&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31s7xrcqnmzfydw5iox3u5rgoknq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212)](https://github.com/GizmetDev)
 
 </div>
