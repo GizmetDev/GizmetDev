@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BBC8A&center=true&vCenter=true&width=435&lines=Linux+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GizmetDev&show_icons=true&theme=merko)
-
 </div>
 
 python
