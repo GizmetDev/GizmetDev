@@ -6,7 +6,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=GizmetDev&show_icons=true&theme=merko)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GizmetDev&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GizmetDev&theme=merko)](https://git.io/streak-stats)
 
 </div>
 
