@@ -1,17 +1,15 @@
-⚔️ GizmetDev ☠️
-
 <div align="center">
+
+⚔️ GizmetDev ☠️
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BBC8A&center=true&vCenter=true&width=435&lines=Linux+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
 
-</div>
-
-python
+**```python
 class Gizmet:
-def init(self):
-self.role = "Full Stack Developer"
-self.os = "Arch Linux BTW 🐧"
-
+    def __init__(self):
+        self.role = "Full Stack Developer"
+        self.os = "Arch Linux BTW 🐧"
+</div>
 
 ## 🛠️ Tech Stack
 [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
