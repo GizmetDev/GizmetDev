@@ -24,9 +24,6 @@ class Gizmet:
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/GizmetDev/ChatPilot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GizmetDev&repo=ChatPilot&theme=merko&hide_border=true" />
-</a>
 <a href="https://github.com/GizmetDev/powercut-recovery">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GizmetDev&repo=powercut-recovery&theme=merko&hide_border=true" />
 </a>
