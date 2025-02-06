@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BBC8A&center=true&vCenter=true&width=435&lines=Linux+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
 
-**```python
+python
 class Gizmet:
     def __init__(self):
         self.role = "Full Stack Developer"
