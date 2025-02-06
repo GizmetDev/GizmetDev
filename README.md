@@ -11,9 +11,8 @@ self.role = "Developer"
 self.os = "Arch Linux BTW 🐧"
 self.code = ["Python", "TypeScript", "JavaScript"]
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GizmetDev&show_icons=true&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=GizmetDev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GizmetDev&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GizmetDev&theme=radical&hide_border=true&count_private=true)](https://git.io/streak-stats)
 
 </div>
